@@ -108,8 +108,8 @@ middleware.ts               # Next.js middleware for i18n
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
-cd nextjs-boilerplate-2025
+git clone https://github.com/SPiKaRDolRa/next-js-16-hybrid-modular-structure-boilerplate.git
+cd next-js-16-hybrid-modular-structure-boilerplate
 ```
 
 1. Install dependencies:
