@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "title": "Next.js Enterprise Boilerplate",
+    "description": "โครงสร้างพื้นฐาน Next.js ที่พร้อมใช้งานพร้อม TypeScript, i18n และเครื่องมือที่ทันสมัย"
+  },
+  "common": {
+    "home": "หน้าแรก",
+    "about": "เกี่ยวกับ",
+    "contact": "ติดต่อ",
+    "language": "ภาษา",
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด",
+    "success": "สำเร็จ"
+  },
+  "home": {
+    "title": "ยินดีต้อนรับสู่ Next.js Boilerplate",
+    "subtitle": "โครงสร้างพื้นฐานที่พร้อมใช้งานพร้อม TypeScript, i18n และเครื่องมือที่ทันสมัย",
+    "getStarted": "เริ่มต้นใช้งาน"
+  }
+}

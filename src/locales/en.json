@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "title": "Next.js Enterprise Boilerplate",
+    "description": "A production-ready Next.js boilerplate with TypeScript, i18n, and modern tooling"
+  },
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "home": {
+    "title": "Welcome to Next.js Boilerplate",
+    "subtitle": "Production-ready boilerplate with TypeScript, i18n, and modern tooling",
+    "getStarted": "Get Started"
+  }
+}
